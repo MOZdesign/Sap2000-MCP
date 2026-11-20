@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# türetilmiş şartname metni (telifli PDF'lerden okunur, depoya girmez)
+sartname_onbellek/
+# çalışma günlüğü (yerel yollar/işlem kayıtları)
+islem_gunlugu.jsonl

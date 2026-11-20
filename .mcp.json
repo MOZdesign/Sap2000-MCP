@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sap2000-own": {
+      "command": "C:\\sap2000-mcp\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "sap2000_mcp"],
+      "cwd": "C:\\sap2000-mcp"
+    }
+  }
+}
